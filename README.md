@@ -70,4 +70,36 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 
 ## License
 
+
+nestjs
+Make things easier for your teammates with a complete collection description.
+GET
+todo/list
+http://localhost:3000/todo/list
+Make things easier for your teammates with a complete request description.
+POST
+todo/save
+http://localhost:3000/todo/save
+Make things easier for your teammates with a complete request description.
+Bodyraw (json)
+json
+{
+  "id": "4",
+  "name": "todo4"
+}
+DEL
+todo/1
+http://localhost:3000/todo/1
+Make things easier for your teammates with a complete request description.
+PUT
+todo/1
+http://localhost:3000/todo/1
+Make things easier for your teammates with a complete request description.
+Bodyraw (json)
+json
+{
+  "id": "1",
+  "name": "todo1-updated"
+}
+
 Nest is [MIT licensed](LICENSE).
